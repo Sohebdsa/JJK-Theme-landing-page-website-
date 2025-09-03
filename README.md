@@ -2,7 +2,7 @@
 
 A stunning animated landing page dedicated to the popular anime/manga series *Jujutsu Kaisen*, featuring the powerful curse Ryomen Sukuna. This project showcases modern web development techniques with a captivating full-screen video background and immersive user experience.
 
-![Project Preview](result.png)
+![Project Preview](demo.png)
 
 ## Features
 
