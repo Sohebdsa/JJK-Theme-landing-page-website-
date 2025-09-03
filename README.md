@@ -69,7 +69,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Author
 
-Created by **codewithv3nom** - A passionate developer and Jujutsu Kaisen fan.
+Created by **sohebdsa** - A passionate developer and Jujutsu Kaisen fan.
 
 ## Contributing
 
@@ -77,4 +77,4 @@ Feel free to submit issues, feature requests, or pull requests to help improve t
 
 ---
 
-*Made with ❤️ for Jujutsu Kaisen fans worldwide*
+*Made by sohebdsa with ❤️ for Jujutsu Kaisen fans worldwide*
